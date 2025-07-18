@@ -61,6 +61,10 @@ The simple interest is:
 
 ---
 
+### Author
+**Upkar Lidder (IBM)**
+
+### Additional Authors
 - **raprz**
 
 ---
